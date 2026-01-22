@@ -1,5 +1,6 @@
 # Smart ALPR System 
 
+
 Automatic License Plate Recognition (ALPR) system using  
 YOLOv8, OpenCV, and Tesseract OCR.
 
@@ -17,4 +18,5 @@ YOLOv8, OpenCV, and Tesseract OCR.
 
 ## Status
  Project initialized – development in progress
+
 
